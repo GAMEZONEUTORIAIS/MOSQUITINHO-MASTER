@@ -1,0 +1,100 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Nov 2020 18:57:51 at https://gamezone.mobirisesite.com/paginainicial.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" -Y https://gamezone.mobirisesite.com/paginainicial.html -O1 "C:\Users\GAME ZONE\Desktop\sitegz" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:25:22	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://www.youtube.com/error_204?t=jserror&level=ERROR
+21:36:25	Error: 	"Not Found" (404) at link https://gamezone.mobirisesite.com/terms.html (from https://gamezone.mobirisesite.com/paginainicial.html)
+21:36:26	Error: 	"Not Found" (404) at link https://gamezone.mobirisesite.com/policy.html (from https://gamezone.mobirisesite.com/paginainicial.html)
+21:40:16	Error: 	"Connect Error" (-4) after 2 retries at link apycom.com/robots.txt (from https://gamezone.mobirisesite.com/paginainicial.html)
+21:40:16	Warning: 	Retry after error -4 (Connect Error) at link apycom.com/webdev/best-free-bootstrap-templates-2016-84.html (from https://gamezone.mobirisesite.com/paginainicial.html)
+21:40:59	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://mobirise.com/how-to/make-your-own-website/)
+21:40:59	Error: 	"Object Not Found" (404) at link https://mobirise.com/how-to/make-your-own-website/assets/images/how-to-preview.jpg (from https://mobirise.com/how-to/make-your-own-website/)
+21:41:25	Error: 	"Not Found" (404) at link https://r.mobirisesite.com/81351/assets/images/sem-ttulo-1.png?v=1KqMqw (from https://gamezone.mobirisesite.com/jogosparacelular.html)
+21:41:28	Error: 	"Not Found" (404) at link https://r.mobirisesite.com/81351/assets/images/grand-theft-auto-vice-city-10th-anniversary-by-patrickbrown-on-deviantart-506x698.jpg?v=1KqMqw (from https://gamezone.mobirisesite.com/jogosparacelular.html)
+21:45:05	Error: 	"Not Found" (404) at link https://r.mobirisesite.com/81351/assets/images/packshot-1e2878718be79db7d5fc05a33a83d08a1-9dda0fc68ca5519cd315338370382221-640.jpg?v=1KqMqw (from https://gamezone.mobirisesite.com/jogosparapc.html)
+21:49:02	Error: 	"Not Found" (404) at link https://www.instagram.com/canalgz2.0/GET (from https://www.instagram.com/canalgz2.0/)
+21:49:02	Error: 	"Not Found" (404) at link https://www.instagram.com/canalgz2.0/android-app://com.instagram.android/https/instagram.com/_u/canalgz2.0/ (from https://www.instagram.com/canalgz2.0/)
+21:50:00	Error: 	"Not Found" (404) at link https://www.instagram.com/canalgz2.0/POST (from https://www.instagram.com/canalgz2.0/)
+21:50:01	Error: 	"No Content" (204) at link https://www.youtube.com/error_204?t=jserror&level=ERROR (from https://www.youtube.com/channel/UCGrlHVyEfqJiEhRzfrZ_kYQ?view_as=subscriber)
+21:52:12	Warning: 	Found for https://www.youtube.com/about/copyright/
+21:52:12	Warning: 	File has moved from https://www.youtube.com/about/copyright/ to https://www.youtube.com/howyoutubeworks/policies/copyright/
+21:54:49	Warning: 	Found for https://www.youtube.com/about/policies/
+21:54:49	Warning: 	File has moved from https://www.youtube.com/about/policies/ to https://www.youtube.com/howyoutubeworks/policies/community-guidelines/
+21:55:40	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/android-app://com.google.android.youtube/http/www.youtube.com/channel/UCGrlHVyEfqJiEhRzfrZ_kYQ (from https://www.youtube.com/channel/UCGrlHVyEfqJiEhRzfrZ_kYQ?view_as=subscriber)
+21:55:40	Error: 	"Not Found" (404) at link https://www.youtube.com/channel/ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCGrlHVyEfqJiEhRzfrZ_kYQ (from https://www.youtube.com/channel/UCGrlHVyEfqJiEhRzfrZ_kYQ?view_as=subscriber)
+21:58:09	Warning: 	Retry after error -4 (Connect Error) at link https://abs.twimg.com/responsive-web/client-web-legacy/i18n/en.6c3b6795.js (from https://twitter.com/home)
+21:59:17	Error: 	"Not Found" (404) at link https://www.youtube.com/img/meh7.png (from https://www.youtube.com/embed/ksR9U1ZrUC0?rel=0&amp;showinfo=0&autoplay=0&loop=1&playlist=ksR9U1ZrUC0)
+21:59:17	Error: 	"Not Found" (404) at link https://r.mobirisesite.com/81351/assets/images/packshot-1e2878718be79db7d5fc05a33a83d08a1-9dda0fc68ca5519cd315338370382221-640-500x713.jpg?v=1KzljE (from https://gamezone.mobirisesite.com/gamezone-jogosparapc.html)
+21:59:39	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=ksR9U1ZrUC0 (from https://www.youtube.com/watch?v=ksR9U1ZrUC0)
+21:59:39	Warning: 	Moved Permanently for www.youtube.com/robots.txt
+21:59:39	Warning: 	Redirected link is identical because of 'URL Hack' option: www.youtube.com/robots.txt and https://www.youtube.com/robots.txt
+21:59:39	Warning: 	Warning moved treated for www.youtube.com/robots.txt (real one is https://www.youtube.com/robots.txt)
+21:59:44	Error: 	"Not Found" (404) at link https://www.youtube.com/async_attach_app_loader.js (from https://www.youtube.com/watch?v=ksR9U1ZrUC0)
+21:59:47	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=Ghp5BzXKauI (from https://www.youtube.com/watch?v=Ghp5BzXKauI)
+21:59:51	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=6Lg2ZijPaJI (from https://www.youtube.com/watch?v=6Lg2ZijPaJI)
+21:59:55	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=0-pUDXK6JNo (from https://www.youtube.com/watch?v=0-pUDXK6JNo)
+21:59:58	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=3AYsDEBylAo (from https://www.youtube.com/watch?v=3AYsDEBylAo)
+22:24:06	Error: 	"Not Found" (404) at link https://www.facebook.com/Mobirise/theaustralian.com.au (from https://www.facebook.com/Mobirise/)
+22:24:07	Error: 	"Not Found" (404) at link https://www.facebook.com/Mobirise/news.com.au (from https://www.facebook.com/Mobirise/)
+22:24:07	Error: 	"Not Found" (404) at link https://www.facebook.com/Mobirise/kollosche.com.au (from https://www.facebook.com/Mobirise/)
+22:24:08	Error: 	"Not Found" (404) at link https://www.facebook.com/Mobirise/awstrack.me (from https://www.facebook.com/Mobirise/)
+22:24:08	Error: 	"Not Found" (404) at link https://www.instagram.com/gilbertsnt/GET (from https://www.instagram.com/gilbertsnt/)
+22:24:08	Error: 	"Not Found" (404) at link https://www.instagram.com/gilbertsnt/android-app://com.instagram.android/https/instagram.com/_u/gilbertsnt/ (from https://www.instagram.com/gilbertsnt/)
+22:24:34	Error: 	"Not Found" (404) at link https://www.instagram.com/gilbertsnt/POST (from https://www.instagram.com/gilbertsnt/)
+22:24:35	Error: 	"Not Found" (404) at link https://www.instagram.com/stercortez/GET (from https://www.instagram.com/stercortez/)
+22:24:35	Error: 	"Not Found" (404) at link https://www.instagram.com/stercortez/android-app://com.instagram.android/https/instagram.com/_u/stercortez/ (from https://www.instagram.com/stercortez/)
+22:25:01	Error: 	"Not Found" (404) at link https://www.instagram.com/stercortez/POST (from https://www.instagram.com/stercortez/)
+22:25:29	Warning: 	Retry after error -4 (Connect Error) at link apycom.com/webdev/best-free-bootstrap-templates-2016-84.html (from https://gamezone.mobirisesite.com/paginainicial.html)
+22:26:50	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=G_xeJu9a9s0&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=3 (from https://www.youtube.com/watch?v=G_xeJu9a9s0&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=3)
+22:26:54	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=i3x_n55z1_k&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=2 (from https://www.youtube.com/watch?v=i3x_n55z1_k&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=2)
+22:26:58	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=66Y7LZM54qs&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5 (from https://www.youtube.com/watch?v=66Y7LZM54qs&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5)
+22:27:02	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=bvhyjO4Kt68&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=17 (from https://www.youtube.com/watch?v=bvhyjO4Kt68&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=17)
+22:27:13	Warning: 	Retry after error -4 (Connect Error) at link https://www.youtube.com/android-app://com.google.android.youtube/http/https://www.youtube.com/watch?v=-Kw7p3Ai5oA&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=4 (from https://www.youtube.com/watch?v=-Kw7p3Ai5oA&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=4)
+22:27:28	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=-Kw7p3Ai5oA&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=4 (from https://www.youtube.com/watch?v=-Kw7p3Ai5oA&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=4)
+22:28:00	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=S0z-Gmx_GEs&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=5 (from https://www.youtube.com/watch?v=S0z-Gmx_GEs&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=5)
+22:28:04	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=K5x5YuF3raA&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=6 (from https://www.youtube.com/watch?v=K5x5YuF3raA&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=6)
+22:28:12	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=mHS-BcSpe_M&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=7 (from https://www.youtube.com/watch?v=mHS-BcSpe_M&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=7)
+22:28:20	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=ji4UjtG3eRk&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=9 (from https://www.youtube.com/watch?v=ji4UjtG3eRk&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=9)
+22:29:00	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=5SWsmypf-AM&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=10 (from https://www.youtube.com/watch?v=5SWsmypf-AM&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=10)
+22:29:10	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=xWHaW_INB2k&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=19 (from https://www.youtube.com/watch?v=xWHaW_INB2k&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=19)
+22:29:20	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=FlBOqDi0Fio&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=24 (from https://www.youtube.com/watch?v=FlBOqDi0Fio&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=24)
+22:29:35	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=mSBnohTJDjw&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=24 (from https://www.youtube.com/watch?v=mSBnohTJDjw&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=24)
+22:30:00	Error: 	"Not Found" (404) at link https://www.youtube.com/ios-app://544007664/vnd.youtube/https://www.youtube.com/watch?v=3AYsDEBylAo&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=28 (from https://www.youtube.com/watch?v=3AYsDEBylAo&list=PLuq6IuDDKQrvUHydcRikybM7Lqr61S2z5&index=28)
+23:11:49	Warning: 	Moved Permanently for https://www.youtube.com/intl/pt-PT/yt/dev/
+23:11:49	Warning: 	File has moved from https://www.youtube.com/intl/pt-PT/yt/dev/ to https://developers.google.com/youtube
+23:16:17	Warning: 	Moved Permanently for www.youtube.com/yt/about/pt-BR/
+23:16:17	Warning: 	Redirected link is identical because of 'URL Hack' option: www.youtube.com/yt/about/pt-BR/ and https://www.youtube.com/yt/about/pt-BR/
+23:16:17	Warning: 	File has moved from www.youtube.com/yt/about/pt-BR/ to https://www.youtube.com/yt/about/pt-BR/
+23:16:17	Warning: 	Moved Permanently for www.youtube.com/yt/press/pt-BR/
+23:16:17	Warning: 	Redirected link is identical because of 'URL Hack' option: www.youtube.com/yt/press/pt-BR/ and https://www.youtube.com/yt/press/pt-BR/
+23:16:17	Warning: 	File has moved from www.youtube.com/yt/press/pt-BR/ to https://www.youtube.com/yt/press/pt-BR/
+23:16:17	Warning: 	Moved Permanently for www.youtube.com/yt/copyright/pt-BR/
+23:16:17	Warning: 	Redirected link is identical because of 'URL Hack' option: www.youtube.com/yt/copyright/pt-BR/ and https://www.youtube.com/yt/copyright/pt-BR/
+23:16:17	Warning: 	File has moved from www.youtube.com/yt/copyright/pt-BR/ to https://www.youtube.com/yt/copyright/pt-BR/
+23:16:18	Warning: 	Moved Permanently for www.youtube.com/yt/policyandsafety/pt-BR/
+23:16:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.youtube.com/yt/policyandsafety/pt-BR/ and https://www.youtube.com/yt/policyandsafety/pt-BR/
+23:16:18	Warning: 	File has moved from www.youtube.com/yt/policyandsafety/pt-BR/ to https://www.youtube.com/yt/policyandsafety/pt-BR/
+23:16:18	Warning: 	Moved Permanently for www.youtube.com/yt/creators/pt-BR/
+23:16:18	Warning: 	Redirected link is identical because of 'URL Hack' option: www.youtube.com/yt/creators/pt-BR/ and https://www.youtube.com/yt/creators/pt-BR/
+23:16:18	Warning: 	File has moved from www.youtube.com/yt/creators/pt-BR/ to https://www.youtube.com/yt/creators/pt-BR/
+23:16:19	Warning: 	Moved Permanently for www.youtube.com/yt/advertise/pt-BR/
+23:16:19	Warning: 	Redirected link is identical because of 'URL Hack' option: www.youtube.com/yt/advertise/pt-BR/ and https://www.youtube.com/yt/advertise/pt-BR/
+23:16:19	Warning: 	File has moved from www.youtube.com/yt/advertise/pt-BR/ to https://www.youtube.com/yt/advertise/pt-BR/
+23:16:19	Warning: 	Moved Permanently for www.youtube.com/yt/dev/pt-BR/
+23:16:19	Warning: 	Redirected link is identical because of 'URL Hack' option: www.youtube.com/yt/dev/pt-BR/ and https://www.youtube.com/yt/dev/pt-BR/
+23:16:19	Warning: 	File has moved from www.youtube.com/yt/dev/pt-BR/ to https://www.youtube.com/yt/dev/pt-BR/
+23:16:19	Warning: 	Moved Permanently for https://www.youtube.com/intl/pt-BR/yt/about/policies/
+23:16:19	Warning: 	File has moved from https://www.youtube.com/intl/pt-BR/yt/about/policies/ to https://www.youtube.com/intl/pt-BR/about/policies/
+23:16:22	Warning: 	Moved Permanently for www.youtube.com/yt/jobs/
+23:16:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.youtube.com/yt/jobs/ and https://www.youtube.com/yt/jobs/
+23:16:22	Warning: 	File has moved from www.youtube.com/yt/jobs/ to https://www.youtube.com/yt/jobs/
+23:16:22	Warning: 	Moved Permanently for https://www.youtube.com/intl/pt-BR/yt/about/press/
+23:16:22	Warning: 	File has moved from https://www.youtube.com/intl/pt-BR/yt/about/press/ to https://www.youtube.com/intl/pt-BR/about/press/
+23:16:22	Warning: 	Found for https://www.youtube.com/intl/pt-BR/yt/creators/benefits/
+23:16:22	Warning: 	File has moved from https://www.youtube.com/intl/pt-BR/yt/creators/benefits/ to https://www.youtube.com/intl/pt-BR/creators/benefits/
+23:16:30	Warning: 	Found for https://www.youtube.com/intl/pt-PT/creators/nextup/
+23:16:30	Warning: 	File has moved from https://www.youtube.com/intl/pt-PT/creators/nextup/ to https://www.youtube.com/intl/pt-PT/nextup/
